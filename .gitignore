@@ -1,1 +1,4 @@
 .env
+token.json
+__pycache__/
+client_secret_885932156424-chgv4q3d2dlhva92oc9mv6o89bae5pt4.apps.googleusercontent.com.json
